@@ -1,0 +1,10 @@
+D:\Users\Pablo\Documents\Visual Studio 2010\Projects\SolucionSalud\SolucionSalud\Datos\bin\Debug\Datos.dll
+D:\Users\Pablo\Documents\Visual Studio 2010\Projects\SolucionSalud\SolucionSalud\Datos\bin\Debug\Datos.pdb
+D:\Users\Pablo\Documents\Visual Studio 2010\Projects\SolucionSalud\SolucionSalud\Datos\bin\Debug\Datos.xml
+D:\Users\Pablo\Documents\Visual Studio 2010\Projects\SolucionSalud\SolucionSalud\Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Pablo\Documents\Visual Studio 2010\Projects\SolucionSalud\SolucionSalud\Datos\obj\Debug\Datos.Resources.resources
+D:\Users\Pablo\Documents\Visual Studio 2010\Projects\SolucionSalud\SolucionSalud\Datos\obj\Debug\GenerateResource.read.1.tlog
+D:\Users\Pablo\Documents\Visual Studio 2010\Projects\SolucionSalud\SolucionSalud\Datos\obj\Debug\GenerateResource.write.1.tlog
+D:\Users\Pablo\Documents\Visual Studio 2010\Projects\SolucionSalud\SolucionSalud\Datos\obj\Debug\Datos.dll
+D:\Users\Pablo\Documents\Visual Studio 2010\Projects\SolucionSalud\SolucionSalud\Datos\obj\Debug\Datos.xml
+D:\Users\Pablo\Documents\Visual Studio 2010\Projects\SolucionSalud\SolucionSalud\Datos\obj\Debug\Datos.pdb
